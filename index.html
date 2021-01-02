@@ -18,7 +18,7 @@
 
 </head> 
 
-<body class="dark-theme">
+<body class="dark-mode">
   <br>
   <h1 class="gfont">
     Alan Wunsche
@@ -31,5 +31,14 @@
   <p class="gfont">
     <a href="https://github.com/alanwunsche/bio">https://github.com/alanwunsche/bio</a>
   </p>
+  
+  <button onclick="myFunction()">Toggle dark mode</button>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
 </body>
 </html>
