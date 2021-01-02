@@ -20,11 +20,11 @@ a {
 }
  
 /* Dark Mode styles */
-body.dark-theme {
+body.dark-mode {
   color: #eee;
   background: #121212;
 }
-body.dark-theme a {
+body.dark-mode a {
   color: #809fff;
 }
 
