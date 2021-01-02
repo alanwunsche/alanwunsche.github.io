@@ -8,6 +8,7 @@ p.gfont {
   font-size: 24px;
 }  
 
+/*
 body {
   font-family: Roboto;
 }
@@ -17,6 +18,7 @@ body {
 a {
   color: #0033cc;
 }
+*/
 
 /* Dark Mode styles */
 body.dark-mode {
