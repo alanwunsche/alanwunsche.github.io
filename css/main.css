@@ -13,18 +13,17 @@ body {
 }
 body {
   color: #222;
-  background: #fff;
-}
+  
 a {
   color: #0033cc;
 }
- 
+
 /* Dark Mode styles */
-body.dark-mode {
+.dark-mode {
   color: #eee;
   background: #121212;
 }
-body.dark-mode a {
+.dark-mode.a {
   color: #809fff;
 }
 
