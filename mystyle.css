@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
-p.gfont {
+.gfont {
   font-family: Roboto;
   font-size: 18px;
 }
@@ -8,3 +8,4 @@ p.gfont {
 body {
   font-family: Roboto;
 }
+
